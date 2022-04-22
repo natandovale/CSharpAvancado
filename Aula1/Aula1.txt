@@ -1,0 +1,20 @@
+Basico De IL
+-Commom Intermediate Language(CIL) ou Microsoft Intermediate Language(MSIL)
+-Toda linguagem de programacao quando compila o código é convertido em IL
+-Códigos mnemônicos=
+-Funciona sob maquina virtual: Just-In-Time(JIT) = (compilada e interpretada no tempo de execucao).
+-Type-safe.
+
+Funcionamento Memoria.
+
+Variáveis Locais: Onde as variáveis criadas dentro do método são armazenadas, elas devem ser declaradas no inicio 
+do médoto.
+Argumentos do método: Obs: this fica armazenado aqui.
+Memoria dinâmica: Armazenamento definido em runtime.
+Evaluation Stack: Área de trabalho
+Heap gerenciado: Reference types/boxed value types.
+Atributos estáticos: Objetos relacionados a atributos estáticos
+(toda a aplicação).
+Memoria proprietária.
+
+

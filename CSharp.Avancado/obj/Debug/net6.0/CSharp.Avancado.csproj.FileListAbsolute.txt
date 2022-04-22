@@ -1,0 +1,15 @@
+C:\Repositorios\Estudos\C#Avancado\CSharp\CSharp.Avancado\obj\Debug\net6.0\CSharp.Avancado.csproj.AssemblyReference.cache
+C:\Repositorios\Estudos\C#Avancado\CSharp\CSharp.Avancado\obj\Debug\net6.0\CSharp.Avancado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Estudos\C#Avancado\CSharp\CSharp.Avancado\obj\Debug\net6.0\CSharp.Avancado.AssemblyInfoInputs.cache
+C:\Repositorios\Estudos\C#Avancado\CSharp\CSharp.Avancado\obj\Debug\net6.0\CSharp.Avancado.AssemblyInfo.cs
+C:\Repositorios\Estudos\C#Avancado\CSharp\CSharp.Avancado\obj\Debug\net6.0\CSharp.Avancado.csproj.CoreCompileInputs.cache
+C:\Repositorios\Estudos\C#Avancado\CSharp\CSharp.Avancado\bin\Debug\net6.0\CSharp.Avancado.exe
+C:\Repositorios\Estudos\C#Avancado\CSharp\CSharp.Avancado\bin\Debug\net6.0\CSharp.Avancado.deps.json
+C:\Repositorios\Estudos\C#Avancado\CSharp\CSharp.Avancado\bin\Debug\net6.0\CSharp.Avancado.runtimeconfig.json
+C:\Repositorios\Estudos\C#Avancado\CSharp\CSharp.Avancado\bin\Debug\net6.0\CSharp.Avancado.dll
+C:\Repositorios\Estudos\C#Avancado\CSharp\CSharp.Avancado\bin\Debug\net6.0\ref\CSharp.Avancado.dll
+C:\Repositorios\Estudos\C#Avancado\CSharp\CSharp.Avancado\bin\Debug\net6.0\CSharp.Avancado.pdb
+C:\Repositorios\Estudos\C#Avancado\CSharp\CSharp.Avancado\obj\Debug\net6.0\CSharp.Avancado.dll
+C:\Repositorios\Estudos\C#Avancado\CSharp\CSharp.Avancado\obj\Debug\net6.0\ref\CSharp.Avancado.dll
+C:\Repositorios\Estudos\C#Avancado\CSharp\CSharp.Avancado\obj\Debug\net6.0\CSharp.Avancado.pdb
+C:\Repositorios\Estudos\C#Avancado\CSharp\CSharp.Avancado\obj\Debug\net6.0\CSharp.Avancado.genruntimeconfig.cache

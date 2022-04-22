@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f360edf-462a-422e-af2e-7cc0ae55688b": {
+      "ProjectGuid": "3f360edf-462a-422e-af2e-7cc0ae55688b",
+      "DisplayName": "CSharp.Avancado",
+      "ColorIndex": 0
+    },
+    "423b1087-fe1e-4103-8d21-b8cce91c005c": {
+      "ProjectGuid": "423b1087-fe1e-4103-8d21-b8cce91c005c",
+      "DisplayName": "Aula1",
+      "ColorIndex": 1
+    },
+    "0fa5fc74-1c53-41c6-b09f-cefc47dbf1b6": {
+      "ProjectGuid": "0fa5fc74-1c53-41c6-b09f-cefc47dbf1b6",
+      "DisplayName": "Aula2",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

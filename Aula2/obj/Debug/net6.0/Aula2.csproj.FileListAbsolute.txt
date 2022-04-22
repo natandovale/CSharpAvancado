@@ -1,0 +1,15 @@
+C:\Repositorios\Estudos\C#Avancado\CSharp\Aula2\obj\Debug\net6.0\Aula2.csproj.AssemblyReference.cache
+C:\Repositorios\Estudos\C#Avancado\CSharp\Aula2\obj\Debug\net6.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Estudos\C#Avancado\CSharp\Aula2\obj\Debug\net6.0\Aula2.AssemblyInfoInputs.cache
+C:\Repositorios\Estudos\C#Avancado\CSharp\Aula2\obj\Debug\net6.0\Aula2.AssemblyInfo.cs
+C:\Repositorios\Estudos\C#Avancado\CSharp\Aula2\obj\Debug\net6.0\Aula2.csproj.CoreCompileInputs.cache
+C:\Repositorios\Estudos\C#Avancado\CSharp\Aula2\bin\Debug\net6.0\Aula2.exe
+C:\Repositorios\Estudos\C#Avancado\CSharp\Aula2\bin\Debug\net6.0\Aula2.deps.json
+C:\Repositorios\Estudos\C#Avancado\CSharp\Aula2\bin\Debug\net6.0\Aula2.runtimeconfig.json
+C:\Repositorios\Estudos\C#Avancado\CSharp\Aula2\bin\Debug\net6.0\Aula2.dll
+C:\Repositorios\Estudos\C#Avancado\CSharp\Aula2\bin\Debug\net6.0\ref\Aula2.dll
+C:\Repositorios\Estudos\C#Avancado\CSharp\Aula2\bin\Debug\net6.0\Aula2.pdb
+C:\Repositorios\Estudos\C#Avancado\CSharp\Aula2\obj\Debug\net6.0\Aula2.dll
+C:\Repositorios\Estudos\C#Avancado\CSharp\Aula2\obj\Debug\net6.0\ref\Aula2.dll
+C:\Repositorios\Estudos\C#Avancado\CSharp\Aula2\obj\Debug\net6.0\Aula2.pdb
+C:\Repositorios\Estudos\C#Avancado\CSharp\Aula2\obj\Debug\net6.0\Aula2.genruntimeconfig.cache

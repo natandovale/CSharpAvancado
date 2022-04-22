@@ -1,0 +1,5 @@
+-Palavra reservada yield.
+-Execução atrasada.
+-Máquina de estado.
+-Ciclo de vida.
+-Dicas e truques.
