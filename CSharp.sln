@@ -1,13 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.32112.339
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Avancado", "CSharp.Avancado\CSharp.Avancado.csproj", "{3F360EDF-462A-422E-AF2E-7CC0AE55688B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula1", "Aula1\Aula1.csproj", "{423B1087-FE1E-4103-8D21-B8CCE91C005C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula1", "Aula1\Aula1.csproj", "{423B1087-FE1E-4103-8D21-B8CCE91C005C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula2", "Aula2\Aula2.csproj", "{0FA5FC74-1C53-41C6-B09F-CEFC47DBF1B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula2", "Aula2\Aula2.csproj", "{0FA5FC74-1C53-41C6-B09F-CEFC47DBF1B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3F360EDF-462A-422E-AF2E-7CC0AE55688B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3F360EDF-462A-422E-AF2E-7CC0AE55688B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3F360EDF-462A-422E-AF2E-7CC0AE55688B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3F360EDF-462A-422E-AF2E-7CC0AE55688B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{423B1087-FE1E-4103-8D21-B8CCE91C005C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{423B1087-FE1E-4103-8D21-B8CCE91C005C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{423B1087-FE1E-4103-8D21-B8CCE91C005C}.Release|Any CPU.ActiveCfg = Release|Any CPU

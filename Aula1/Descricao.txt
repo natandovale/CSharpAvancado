@@ -11,10 +11,8 @@ Variáveis Locais: Onde as variáveis criadas dentro do método são armazenadas
 do médoto.
 Argumentos do método: Obs: this fica armazenado aqui.
 Memoria dinâmica: Armazenamento definido em runtime.
-Evaluation Stack: Área de trabalho
+Evaluation Stack: Área de trabalho.
 Heap gerenciado: Reference types/boxed value types.
-Atributos estáticos: Objetos relacionados a atributos estáticos
+Atributos estáticos: Objetos relacionados a atributos estáticos.
 (toda a aplicação).
 Memoria proprietária.
-
-
